@@ -142,4 +142,4 @@ Contributions are welcome! Feel free to fork the repo, submit pull requests, or 
 For questions or collaboration:
 
 **Lakshya Verma**  
-[Your Email or LinkedIn link here]
+Lakshya.123607@stu.upes.ac.in

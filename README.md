@@ -8,7 +8,7 @@
 
 ## **📖 Overview**
 
-**ConscienceAI** is an end-to-end machine learning pipeline that goes beyond accuracy. It assesses **AI models for ethics, fairness, and transparency**, ensuring responsible AI development.
+**ConscienceAI** is an end-to-end machine learning pipeline that goes beyond accuracy. It assesses **AI models for ethics, fairness, and transparency**, ensuring responsible AI development
 
 This project automates:
 - **Bias Detection & Fairness Auditing**
